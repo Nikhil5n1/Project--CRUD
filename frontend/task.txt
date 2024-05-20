@@ -1,0 +1,2 @@
+create a form where user enters entity name and attributes
+create a form that enters data into a particular entity
