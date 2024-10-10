@@ -10,3 +10,5 @@ Features:
 1.Create and manage multiple tables
 2.Add and modify table values with specified data types
 3.Perform CRUD operations on table data
+
+The repository also contains video of the project working and also screen shorts of each page
